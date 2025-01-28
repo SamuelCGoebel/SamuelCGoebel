@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, nice of you for stopping by
 
 <!--
 **SamuelCGoebel/SamuelCGoebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
