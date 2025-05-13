@@ -1,16 +1,20 @@
-## Hello, nice of you for stopping by
+## 👋 Hello, and thanks for stopping by!
 
-<!--
-**SamuelCGoebel/SamuelCGoebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samuel Goebel, a Master's student in **Data Science and Society** at **Tilburg University** in the Netherlands. I come from a background in **Clinical Psychology**, with a minor in **Neuropsychology**, and I’m passionate about applying data-driven methods to understand human behavior and improve decision-making in healthcare and society.
 
-Here are some ideas to get you started:
+### 🔍 Interests
+- Machine Learning & Explainability (XAI)
+- Mental health prediction & burnout research
+- Data ethics & responsible AI
+- Human-centered data science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently Working On
+- Burnout prediction models using machine learning and deep learning
+- Exploring the social impact of algorithmic decision-making
+
+### 📚 Skills & Tools
+- Python (pandas, scikit-learn, PyTorch, etc.)
+- R (ggplot2, tidyverse)
+- SQL, Git, Jupyter, and more
+- Data storytelling & visualization
+
