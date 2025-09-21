@@ -1,6 +1,6 @@
 ## 👋 Hello, and thanks for stopping by!
 
-I'm Samuel Goebel, a Master's student in **Data Science and Society** at **Tilburg University** in the Netherlands. I come from a background in **Clinical Psychology**, with a minor in **Neuropsychology**, and I’m passionate about applying data-driven methods to understand human behavior and improve decision-making in healthcare and society.
+I'm Samuel Goebel, Data Scientist and psychology graduate with a Master in **Data Science and Society** at **Tilburg University** in the Netherlands. I come from a background in **Clinical Psychology**, with a minor in **Neuropsychology**, and I’m passionate about applying data-driven methods to understand human behavior and improve decision-making in healthcare and society.
 
 ### 🔍 Interests
 - Machine Learning & Explainability (XAI)
