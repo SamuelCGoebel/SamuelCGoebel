@@ -3,6 +3,8 @@
 I'm Samuel Goebel, Data Scientist and psychology graduate with a Master in **Data Science and Society** at **Tilburg University** in the Netherlands. I come from a background in **Clinical Psychology**, with a minor in **Neuropsychology**, and I’m passionate about applying data-driven methods to understand human behavior and improve decision-making in healthcare and society.
 
 ### 🔍 Interests
+- LLM, Transformer Architecture, Deep Learning
+- AI
 - Machine Learning & Explainability (XAI)
 - Mental health prediction & burnout research
 - Data ethics & responsible AI
