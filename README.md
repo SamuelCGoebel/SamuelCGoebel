@@ -17,6 +17,6 @@ I'm Samuel Goebel, Data Scientist and psychology graduate with a Master in **Dat
 ### 📚 Skills & Tools
 - Python (pandas, scikit-learn, PyTorch, etc.)
 - R (ggplot2, tidyverse)
-- SQL, Git, Jupyter, and more
+- SQL, Git, Jupyter
 - Data storytelling & visualization
 
