@@ -20,5 +20,5 @@ I'm Samuel Goebel, Data Scientist and psychology graduate with a Master in **Dat
 - HTML
 - CSS
 - SQL, Git, Jupyter
-- Data storytelling & visualization
+- Data visualization
 
